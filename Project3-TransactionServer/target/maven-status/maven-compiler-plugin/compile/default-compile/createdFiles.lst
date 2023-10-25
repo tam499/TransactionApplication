@@ -1,0 +1,13 @@
+account\AccountManager.class
+transaction\Transaction.class
+message\Message.class
+client\TransactionServerProxy.class
+account\Account.class
+utils\PropertyHandler.class
+transaction\TransactionManager.class
+utils\NetworkUtilities.class
+client\TransactionClient.class
+message\MessageTypes.class
+transaction\TransactionManager$TransactionManagerWorker.class
+client\TransactionClient$TransactionThread.class
+server\TransactionServer.class
